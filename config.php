@@ -16,12 +16,12 @@ Bytecoin: 24gKv1yqZ2oZ7Ln4KWcL3q7D7CXibndxhDzLvrJxxw1x7tiaQ5euuduT9EkHzDta144vmw
 
 */
 
-$faucetTitle = "Кран карбованців";
-$faucetSubtitle = "Кожні 12 год. можна отримати безкоштовні карбованці";
-$logo = "images/krbcoin.png";
+$faucetTitle = "CIPHS";
+$faucetSubtitle = "CIPHS Faucet";
+$logo = "images/ciphs.png";
 
 //Faucet address for donations
-$faucetAddress = "KcCLKjdXWW6bpSYg9AsMXz1aQmVhyfXL17p8bS13k6A1CwPtqJ5VNWD34oHmtPV4gy4GgE2Ej6oCcApvgMbivvgiNpJNjpR";
+$faucetAddress = "ciphs3eXoHwMWXd4bJcGsE6ToHzUMHC6dHo7MtDHqbpqLUq7BrfYFWwhJxTbwX71wrE7TNuuuWvZW5eiKbCEmGj773k89nQUYzc";
 
 //Reward time in hours
 $rewardEvery = "12";
